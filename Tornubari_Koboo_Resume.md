@@ -1,9 +1,14 @@
 ## Tornubari Koboo
 
 Email : t.koboo12@gmail.com 
+
 Phone : 404-936-9594
+
 Atlanta, GA
-[Github](https://github.com/TornubariKoboo) | [LinkedIn](https://www.linkedin.com/in/tornubari-koboo/)
+
+[Github](https://github.com/TornubariKoboo) 
+
+ [LinkedIn](https://www.linkedin.com/in/tornubari-koboo/)
 
 ## Technologies:
 
@@ -16,7 +21,7 @@ Atlanta, GA
 **Georgia Southern University, Allen E. Paulson College of Engineering and Computing**, May 2020  
 B.S. Mechanical Engineering
 
-**Georgia Institute of Technology**, 2020  
+**Georgia Institute of Technology**, Aug 2020  
 Software Engineering Course Certificate 
 
 
@@ -48,6 +53,8 @@ Assistant Manager, Nov 2014- July 2018
 Academic Chair
 -	Promoting scholastic excellence, delivering study tools, and encouraging academic achievement of each member ensuring academic success each semester 
 -	Construct professional development workshops (LinkedIn, Interview Preparation, Resume Building) educating 130+ students on the importance of professional branding and career advancement 
+
+
 **National Society For Engineers**
 Treasurer
 -	Managed the receipts, banking, and protection of organizational funding ensuring financial stability and accurate auditing
