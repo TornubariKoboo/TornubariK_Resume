@@ -16,8 +16,6 @@ Atlanta, GA
 
 **Proficient:** HTML, CSS, JavaScript, Bootstrap, Node.js, JQuery.js, React.js, Ajax, Command Line and Git
 
-**Knowledgeable:**  
-
 ## Education:
 
 **Georgia Southern University, Allen E. Paulson College of Engineering and Computing**, May 2020  
