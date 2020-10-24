@@ -21,7 +21,7 @@ Atlanta, GA
 **Georgia Southern University, Allen E. Paulson College of Engineering and Computing**, May 2020  
 B.S. Mechanical Engineering
 
-**Georgia Institute of Technology**, Feb 2021  
+**Georgia Institute of Technology**, February 2021  
 Professional Education Course (Web Development)
 
 ## Projects :
