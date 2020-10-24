@@ -9,12 +9,14 @@ Atlanta, GA
 [Github](https://github.com/TornubariKoboo) 
 
  [LinkedIn](https://www.linkedin.com/in/tornubari-koboo/)
+ 
+ Software Engineer 
 
 ## Technologies:
 
-**Proficient:** JavaScript, Node.js, HTML, CSS, React, Python
+**Proficient:** HTML, CSS, JavaScript, Bootstrap, Node.js, JQuery.js, React.js, Ajax, Command Line and Git
 
-**Knowledgeable:**  Bootstrap, JQuery
+**Knowledgeable:**  
 
 ## Education:
 
@@ -22,8 +24,22 @@ Atlanta, GA
 B.S. Mechanical Engineering
 
 **Georgia Institute of Technology**, Feb 2021  
-Software Engineering Course Certificate 
+Professional Education Course (Web Development)
 
+## Project 
+## Rick and Morty Advice Game 
+•	Designed, implemented, and deployed an application based on Rick and Morty Television show. 
+•	Once the user clicks the start journey button on the website, the user is sent on a journey to various worlds, where they are offered different life advice. 
+•	Designed the Front End of the Application
+•	Technologies: JavaScript, HTML, CSS, jQuery, Bootstrap, API
+•	https://tornubarikoboo.github.io/Smith-s-Adventure/
+
+## Password Generator        
+•	Designed a password generator that gives users a random password with different numbers, letters and special characters based on the input from the user.  
+•	Password is generator once user clicks on generator password, password is given with the amount of characters that the user choices for the length of the password. 
+•	Technologies: JavaScript, HTML, CSS, jQuery, Bootstrap
+•	https://tornubarikoboo.github.io/Password_Generator-/
+	
 
 ## Work Experience :
 **Georgia Southern University**  
