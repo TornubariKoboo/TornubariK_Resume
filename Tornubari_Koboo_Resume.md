@@ -24,7 +24,7 @@ B.S. Mechanical Engineering
 **Georgia Institute of Technology**, Feb 2021  
 Professional Education Course (Web Development)
 
-## Project :
+## Projects :
 ## Rick and Morty Advice Game 
 •	Designed, implemented, and deployed an application based on Rick and Morty Television show. 
 •	Once the user clicks the start journey button on the website, the user is sent on a journey to various worlds, where they are offered different life advice. 
